@@ -24,4 +24,7 @@
   , "example": "./example"
   }
 , "main": "./lib/XMLHttpRequest.js"
+, "dependencies": {
+    "mime-types": "^1.0.0"
+  }
 }
